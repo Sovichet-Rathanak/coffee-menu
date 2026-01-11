@@ -1,0 +1,13 @@
+.header {
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+  width: 100vw;
+  font-family: "Inter", sans-serif;
+  font-size: 36px;
+  font-weight: bold;
+  box-shadow: 0 25px 40px rgba(0, 0, 0, 0.08); 
+}
+
